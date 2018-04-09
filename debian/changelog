@@ -1,4 +1,4 @@
-on-tftp (2.242.0) UNRELEASED; urgency=low
+on-tftp (2.243.0) UNRELEASED; urgency=low
 
   * Initial release
   * release 1.0.0
@@ -250,5 +250,6 @@ on-tftp (2.242.0) UNRELEASED; urgency=low
   * release 2.240.0
   * release 2.241.0
   * release 2.242.0
+  * release 2.243.0
 
- -- rackhd <rackhd@emc.com>  Mon, 02 Apr 2018 03:54:46 +0000
+ -- rackhd <rackhd@emc.com>  Mon, 09 Apr 2018 06:49:33 +0000
